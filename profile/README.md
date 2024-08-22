@@ -1,4 +1,4 @@
-# WinCC OA Auxiliary tmp
+# WinCC OA Auxiliary
 This public repository serves as a pool for auxiliary tools making work and life with WinCC OA easier. The tools will mainly be CTRL scripts and UI panels.
 
 ## Contributor Covenant Code of Conduct
