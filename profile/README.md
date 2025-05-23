@@ -7,7 +7,7 @@ Welcome to the **WinCC OA Hub** – a public repository that provides practical 
 ## 🔍 Why we do this
 
 We want to **support our global WinCC OA community** by offering simple and inspiring solutions that demonstrate what’s possible with our platform. These tools are intended to:
-- Help partners and users speed up development.
+- Help integrators and users speed up development.
 - Share best practices in UI design, scripting, and architecture.
 - Showcase integrations and automation approaches.
 
@@ -17,8 +17,8 @@ We want to **support our global WinCC OA community** by offering simple and insp
 
 This repository serves as a **curated collection of public helper tools and application examples**, including:
 - Sample WinCC OA projects (e.g., dashboards, libraries, integration adapters)
-- Snippets and scripts in CTRL++, JavaScript, and other supported languages
-- UI components and automation templates
+- Snippets and scripts in CTRL, CTRL++, JavaScript, and other supported languages
+- UI components, scripts, libs, snippets, ...
 
 All content is:
 - ✅ Freely available
