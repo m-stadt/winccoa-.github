@@ -37,7 +37,7 @@ Each example is provided in its own GitHub repository and can be cloned or downl
 We will update these examples periodically and are happy to receive contributions from the community. All repositories follow the WinCC OA development best practices.
 
 Additionally, each official example will include:
-- A detailed **SIOS (Siemens Industry Online Support)** article, describing the use case and setup
+- A detailed [**SiePortal**](https://sieportal.siemens.com/en-ww/search?scope=knowledgebase&Type=siePortal&SearchTerm=WinCC%20OA&SortingOption=DefaultRankingDesc&EntryTypes=ExampleOfUse&Page=0&PageSize=20) article, describing the use case and setup
 - A **HowTo** as visual documentation
 - A reference project you can download directly from SIOS
 
@@ -50,15 +50,15 @@ Additionally, each official example will include:
 
 | Name                          | Type     | Status        | Repository    | SIOS Link     |
 |-------------------------------|----------|---------------|---------------|---------------|
-| WinCC OA Panel Topology Framework        | ![CTRL](https://img.shields.io/badge/-CTRL-0aa)                                | ![online](https://img.shields.io/badge/status-online-brightgreen) | [winccoa-ae-ui-ptframework](https://github.com/winccoa/winccoa-ae-ui-ptframework) | <https://support.industry.siemens.com/cs/document/109986351/integration-and-usage-of-the-wincc-oa-panel-topology-framework?dti=0&lc=en-WW> |
-| WinCC OA MQTT Explorer & Importer        | ![JS](https://img.shields.io/badge/-JS-f7df1e?logo=javascript&logoColor=black) | ![online](https://img.shields.io/badge/status-online-brightgreen) | [winccoa-ae-js-mqttexplorer](https://github.com/winccoa/winccoa-ae-js-mqttexplorer) | <https://support.industry.siemens.com/cs/document/109988549/wincc-oa-mqtt-explorer-and-importer?dti=0&lc=en-WW> |
-| WinCC OA Telegram Bot Library            | ![JS](https://img.shields.io/badge/-JS-f7df1e?logo=javascript&logoColor=black) | ![online](https://img.shields.io/badge/status-online-brightgreen) | [winccoa-ae-js-telegrambot](https://github.com/winccoa/winccoa-ae-js-telegrambot) | <https://support.industry.siemens.com/cs/document/109988529/wincc-oa-telegram-bot-library?dti=0&lc=en-WW> |
-| WinCC OA IT/OT Layer                     | ![CTRL](https://img.shields.io/badge/-CTRL-0aa)                                | ![staged](https://img.shields.io/badge/status-staged-lightgrey)   | TBD | TBD |
-| WinCC OA Teams Integration               | ![JS](https://img.shields.io/badge/-JS-f7df1e?logo=javascript&logoColor=black) | ![in work](https://img.shields.io/badge/status-in--work-yellow)   | TBD | TBD |
-| WinCC OA MTP Library + Importer          | ![CTRL](https://img.shields.io/badge/-CTRL-0aa)                                | ![in work](https://img.shields.io/badge/status-in--work-yellow)   | TBD | TBD |
-| WinCC OA Benchmark and Systemperformance | ![General](https://img.shields.io/badge/-General-grey)                         | ![in work](https://img.shields.io/badge/status-in--work-yellow)   | [winccoa-ae-general-hwperf]() | TBD |
-| WinCC OA Text2Speech                     | ![TS](https://img.shields.io/badge/-TS-f7df1e?logo=typescript&logoColor=black) | ![in work](https://img.shields.io/badge/status-in--work-yellow)   | [winccoa-ae-ts-text2speech]() | TBD |
-| WinCC OA Web Components Dashboard Widget | ![JS](https://img.shields.io/badge/-JS-f7df1e?logo=javascript&logoColor=black) | ![planned](https://img.shields.io/badge/status-planned-orange)    | TBD | TBD |
+| WinCC OA Panel Topology Framework        | ![CTRL](https://img.shields.io/badge/-CTRL-0aa)                                | ![online](https://img.shields.io/badge/status-online-brightgreen) | [Github Repo](https://github.com/winccoa/winccoa-ae-ui-ptframework) | [SIOS - Link](https://support.industry.siemens.com/cs/document/109986351/integration-and-usage-of-the-wincc-oa-panel-topology-framework?dti=0&lc=en-WW) |
+| WinCC OA MQTT Explorer & Importer        | ![JS](https://img.shields.io/badge/-JS-f7df1e?logo=javascript&logoColor=black) | ![online](https://img.shields.io/badge/status-online-brightgreen) | [Github Repo](https://github.com/winccoa/winccoa-ae-js-mqttexplorer) | [SIOS - Link](https://support.industry.siemens.com/cs/document/109988549/wincc-oa-mqtt-explorer-and-importer?dti=0&lc=en-WW) |
+| WinCC OA Telegram Bot Library            | ![JS](https://img.shields.io/badge/-JS-f7df1e?logo=javascript&logoColor=black) | ![online](https://img.shields.io/badge/status-online-brightgreen) | [Github Repo](https://github.com/winccoa/winccoa-ae-js-telegrambot) | [SIOS - Link](https://support.industry.siemens.com/cs/document/109988529/wincc-oa-telegram-bot-library?dti=0&lc=en-WW) |
+| WinCC OA IT/OT Layer                     | ![CTRL](https://img.shields.io/badge/-CTRL-0aa)                                | ![staged](https://img.shields.io/badge/status-staged-lightgrey)   | ![Coming soon](https://img.shields.io/badge/-ComingSoon-lightgrey) | ![Coming soon](https://img.shields.io/badge/-ComingSoon-lightgrey) |
+| WinCC OA Teams Integration               | ![JS](https://img.shields.io/badge/-JS-f7df1e?logo=javascript&logoColor=black) | ![in work](https://img.shields.io/badge/status-in--work-yellow)   | ![Coming soon](https://img.shields.io/badge/-ComingSoon-lightgrey) | ![Coming soon](https://img.shields.io/badge/-ComingSoon-lightgrey) |
+| WinCC OA MTP Library + Importer          | ![CTRL](https://img.shields.io/badge/-CTRL-0aa)                                | ![in work](https://img.shields.io/badge/status-in--work-yellow)   | ![Coming soon](https://img.shields.io/badge/-ComingSoon-lightgrey) | ![Coming soon](https://img.shields.io/badge/-ComingSoon-lightgrey) |
+| WinCC OA Benchmark and Systemperformance | ![General](https://img.shields.io/badge/-General-grey)                         | ![in work](https://img.shields.io/badge/status-in--work-yellow)   | ![Coming soon](https://img.shields.io/badge/-ComingSoon-lightgrey) | ![Coming soon](https://img.shields.io/badge/-ComingSoon-lightgrey) |
+| WinCC OA Text2Speech                     | ![TS](https://img.shields.io/badge/-TS-f7df1e?logo=typescript&logoColor=black) | ![in work](https://img.shields.io/badge/status-in--work-yellow)   | ![Coming soon](https://img.shields.io/badge/-ComingSoon-lightgrey) | ![Coming soon](https://img.shields.io/badge/-ComingSoon-lightgrey) |
+| WinCC OA Web Components Dashboard Widget | ![JS](https://img.shields.io/badge/-JS-f7df1e?logo=javascript&logoColor=black) | ![planned](https://img.shields.io/badge/status-planned-orange)    | ![Coming soon](https://img.shields.io/badge/-ComingSoon-lightgrey) | ![Coming soon](https://img.shields.io/badge/-ComingSoon-lightgrey) |
 
 ## 📜 Contributor Covenant Code of Conduct
 
