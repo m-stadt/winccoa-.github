@@ -45,18 +45,18 @@ Additionally, each official example will include:
 
 ## 📦 Repository Overview
 
-**⭐ Featured Solution:** Check out the **WinCC OA Energy Monitoring - DevDays25** for a great example of a **🤝 Partner Integration** and the 🏆 winner of our Hackathon 2025!
+**⭐ Featured Example:** Check out **WinCC OA Energy Monitoring - DevDays25** for a great example of a **🤝 WinCC OA Partner** and the 🏆 winner of our Hackathon 2025!
 
 > _The following examples are currently available or planned._
 > _These tables will be updated regularly._
 
-### 🤝 WinCC OA Partner Solutions
+### 🤝 WinCC OA Partner Examples
 
 | Name                          | Type     | Status        | Repository    | Partner       |
 |-------------------------------|----------|---------------|---------------|---------------|
 | WinCC OA Energy Monitoring - DevDays25          | ![JS](https://img.shields.io/badge/-JS-f7df1e?logo=javascript&logoColor=black) | **![Featured](https://img.shields.io/badge/status-featured-blue)** | [Github Repo](https://github.com/winccoa/winccoa-devdays25-energymonitoring) | [Viscom Engineering AG](https://viscomag.ch/) |
 
-### 🚀 WinCC OA Team Solutions
+### 🚀 WinCC OA Team Examples
 
 | Name                          | Type     | Status        | Repository    | SIOS Link     |
 |-------------------------------|----------|---------------|---------------|---------------|
